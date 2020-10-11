@@ -1,0 +1,21 @@
+
+pesquisa> reack hooks>https://pt-br.reactjs.org/docs/hooks-intro.html
+
+foi usada a biblioteca material ui>https://material-ui.com/pt/getting-started/installation/
+
+deposi estudar> ciclo de vida dos componetes: componentDidMount= estado inicial do componente, 
+...Update= quando é atualizado, 
+...Unmount= logo antes de ser destruido
+
+
+comandos: onChange= caso houver mudança faça, 
+onSubmit= subimeter a atualização, usado no estado do botão, 
+useState= estado do componente,
+useEffect= controla o useState, e mais... 
+useContex = serve para vc criar um contexto fora do usuario ao qual quem vc quiser pode usar as propriedades daquele contexto. Cria um provedor.
+
+pag
+https://cursos.alura.com.br/course/react-hooks-e-formularios/task/79222
+
+
+
